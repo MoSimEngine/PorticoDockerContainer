@@ -1,5 +1,5 @@
 # Base image to use
-FROM openjdk:slim
+FROM openjdk:8-slim
 # Working directory
 WORKDIR /portico
 
